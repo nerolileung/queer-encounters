@@ -33,8 +33,16 @@ public class AudioManager : MonoBehaviour
         
     }
 
-    public void ChangeMusicVol(int value){
-        mixer.SetFloat("volMusic",(float)value);
-        musicText.text = (value+80).ToString()+"%";
+    public void ChangeMusicVol(float value){
+        mixer.SetFloat("volBGM",value);
+        musicText.text = Mathf.RoundToInt(value+80).ToString()+"%";
+    }
+    public void ChangeSFXVol(float value){
+        mixer.SetFloat("volSFX",value);
+        sfxText.text = Mathf.RoundToInt(value+80).ToString()+"%";
+    }
+    public void ChangeVoiceVol(float value){
+        mixer.SetFloat("volVoice",value);
+        voiceText.text = Mathf.RoundToInt(value+80).ToString()+"%";
     }
 }
