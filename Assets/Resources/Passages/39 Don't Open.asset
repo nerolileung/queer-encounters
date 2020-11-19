@@ -12,8 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 39 Don't Open
   m_EditorClassIdentifier: 
-  text: 
+  text: 'Of course you don''t open it.
+
+
+    You have a job to do. All of this would
+    be for nothing, if you broke your contract now.
+
+
+    You set it down on the
+    chair again, and head on for the stars.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: df8c2bf493243475783e15588eebccdd, type: 2}
   next2: {fileID: 0}
   music: 

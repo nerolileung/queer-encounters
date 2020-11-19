@@ -12,8 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 27 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'It eclipses your vision. An inky blackness, blending into the sky, distinguished
+    only by the absence of stars, and its single purple pupil. It does not speak
+    to you. It slips its words into your mind, insidious, like a whisper never heard.
+
+
+    WHO
+    ARE YOU.
+
+
+    You could throw your wrench at it?'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: 6548025906b6c4163ac61486819ea9c5, type: 2}
+  next2: {fileID: 11400000, guid: 4d4d4bf059a394a7b9e615f0a88c2350, type: 2}
   music: 

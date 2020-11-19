@@ -12,8 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 35 Don't Give
   m_EditorClassIdentifier: 
-  text: 
+  text: 'The eye is quiet for a moment, as you hold the box to your chest.
+
+
+    You
+    have a job to do.
+
+
+    PLEASE.
+
+
+    It says again.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: 7e26d486a2c37442bbcc43c62a32b88c, type: 2}
+  next2: {fileID: 11400000, guid: e9c511859243c464dae255153f8fce25, type: 2}
   music: 

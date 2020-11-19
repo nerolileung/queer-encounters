@@ -12,8 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 43 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You blink. And everything is as it was. You feel the engine hum behind you,
+    the rumble of travel. You peer at the window. Undamaged.
+
+
+    You peer outside.
+    Nothing there but the endless void again.
+
+
+    You look down. The package is
+    not in your hand. In its place is your wrench.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 23e027aeba78e44b790c775ff1b63287, type: 2}
   next2: {fileID: 0}
   music: 

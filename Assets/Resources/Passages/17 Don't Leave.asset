@@ -12,8 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 17 Don't Leave
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You settle back down into your chair, and Nebula hops back onto your lap,
+    curling into comfort as only a cat can. You gaze outward to the horizon, watching
+    the purple haze of the distance dance and glow.
+
+
+    You wait.
+
+
+    And wait.
+
+
+    Time
+    passes. As it is wont to do.
+
+
+    Do you leave your ship?'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: bdfa8bf4cf3264a64a5257bafc2affbf, type: 2}
+  next2: {fileID: 11400000, guid: 577a0ad114f384f05aa3c2e206cdbb3d, type: 2}
   music: 

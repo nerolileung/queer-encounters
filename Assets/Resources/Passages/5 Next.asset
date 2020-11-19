@@ -10,10 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Fix Engine
+  m_Name: 5 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: You turn, making your way out of the cramped cockpit, and into the suffocatingly
+    small engine bay. Here, the distant purr of the engine becomes a roar, the beast
+    of machinery wedged between the walls, heat blasting from its surface. It flutters
+    again as you squeeze beside it. You quickly find the issue, a loose fuel line
+    this time, and coax it back into place. The wrench in your pocket helps to secure
+    the line.
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: d2bd7bc8886e04334b85f56771952fff, type: 2}
   next2: {fileID: 0}
   music: 

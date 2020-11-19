@@ -12,8 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 24 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You peer up at the crags and crevices that make up the rocky face of the
+    mountain.
+
+
+    It''s a long way up.
+
+
+    You set Nebula onto your shoulder,
+    and begin to climb.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 1d7b84981e1674a4c9e9b840776d3c1a, type: 2}
   next2: {fileID: 0}
   music: 

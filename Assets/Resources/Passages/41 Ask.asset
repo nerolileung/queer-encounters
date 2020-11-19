@@ -12,8 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 41 Ask
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You sign to the eye, questioning what it is.
+
+
+    The box melts into nothing
+    in the grip of its tendril, and all that remains is a single purple orb. Something
+    is held in the crystalline structure.
+
+
+    IT IS MY SELF. MY ALL. I THOUGHT
+    I WAS THE LAST.
+
+
+    You ask if the orb is its child.
+
+
+    YES. THAT IS APT.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: e6f39b5e96ff040489567b671f0764ce, type: 2}
   next2: {fileID: 0}
   music: 

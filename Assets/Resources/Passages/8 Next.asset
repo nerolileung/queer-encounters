@@ -10,10 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Next 8
+  m_Name: 8 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'Your console beeps once more. This time, your communicator has received
+    a hail. From what... It cannot determine.
+
+
+    You lean forward, and peer again
+    at the signal. Space is an enormously vast place. There are only a few dozen
+    ships out there with communicators like yours, and you are sure that none are
+    out here.
+
+
+    A button marked "RESPOND" glows green in the dim gloom of your
+    cockpit.
+
+
+    Do you respond to the hail?'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: 18ad920ab94494747ac9012e1b68febc, type: 2}
+  next2: {fileID: 11400000, guid: 9031ced7772864d14a2e66e593adda86, type: 2}
   music: 

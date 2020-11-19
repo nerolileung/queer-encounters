@@ -12,8 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 18 Don't Leave
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You stay. And wait. And wait some more.
+
+
+    It''s beautiful here. Calm,
+    and peaceful. The wind whistles gently through the crack in the glass. You don''t
+    think you''re dead yet, so it''s probably reasonably safe out there.
+
+
+    Nebula
+    shifts, and sits up in your lap, facing you. There is a curiosity to her eyes
+    that makes you wonder the extent of her intelligence.
+
+
+    She then tries to
+    hop to the other chair, misses, and slams into the armrest, landing on the floor
+    dazed.
+
+
+    A question solved, at least.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 83074bb1d5ccd480db1871402caae484, type: 2}
   next2: {fileID: 0}
   music: 

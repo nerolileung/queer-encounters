@@ -12,8 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 26 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You''re surrounded by the mist at the peak now, a violet haze which blocks
+    your vision. It smells of yeast, and baked bread.
+
+
+    You keep climbing. Until,
+    eventually, you break free from the fog of purple, and pull yourself onto the
+    peak.
+
+
+    It''s so beautiful here. The stars twinkle overhead, their majesty
+    retold by your time spent apart. A sea of void surrounds you at the tip of the
+    spire of the mountain, the violet clouds blending the land below into the sky.
+
+
+    You
+    look up. And an eye stares down at you.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 0fb3187a4cd76484db71f232653e6677, type: 2}
   next2: {fileID: 0}
   music: 

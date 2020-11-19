@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 42 Don't Ask
   m_EditorClassIdentifier: 
-  text: 
+  text: 'The eye blinks.
+
+
+    And it disappears.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 3992f65dcddaf4423ae2f2e62a935d3a, type: 2}
   next2: {fileID: 0}
   music: 

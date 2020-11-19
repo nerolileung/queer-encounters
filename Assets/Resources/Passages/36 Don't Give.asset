@@ -12,8 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 36 Don't Give
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You take a step back, and shake your head.
+
+
+    You have a job to do. Even
+    in the face of this.
+
+
+    The eye looks sad, for a moment. And then it seems
+    to nod.
+
+
+    And disappears.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: ef04165c2be8e4bc5ae7b66f326526ad, type: 2}
   next2: {fileID: 0}
   music: 

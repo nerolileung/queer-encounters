@@ -10,10 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Next 13
+  m_Name: 13 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'Suddenly, your engine hiccups, and the lights in your cockpit go dark. You
+    look around, eyes wild. Warnings blare out from the console, and Nebula jumps
+    from your lap, bolting away from the noise.
+
+
+    Something is coming. You do
+    not know what.
+
+
+    In desperation, you press buttons on the console, as you
+    have done many times before. None of them respond. You look up, staring at the
+    void behind the glass...'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 3daccb5d234e24e839f812401212e884, type: 2}
   next2: {fileID: 0}
-  music: 
+  music: UnnaturalSituation

@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Don't Answer 1
+  m_Name: Don't Answer 5
   m_EditorClassIdentifier: 
-  text: 'Okay. Last chance. When you hear the sound, or see the prompt, press the
-    spacebar to play the game.
-
-
-    Would you like to play the game?'
+  text: Hi! I'm the programmer. This is also a game, one that has had love and effort
+    put into it. I understand the urge to see how far you can push a game's options,
+    but... please. I did some cool stuff with the sound system! Check it out! Press
+    the spacebar, press enter, press literally any key except escape to start the
+    story. Please.
   voice: {fileID: 0}
-  next1: {fileID: 11400000, guid: 4468bba6862da490ca8a6638d336ac1f, type: 2}
+  next1: {fileID: 11400000, guid: 7f6cc8bc4ece44844aee19884595b7b7, type: 2}
   next2: {fileID: 11400000, guid: 081fa811a11b94b2fbdf3a3287d19f2a, type: 2}
   music: 

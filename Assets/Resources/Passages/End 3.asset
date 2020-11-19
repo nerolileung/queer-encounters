@@ -12,7 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: End 3
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You wonder, as you continue, just what you have done. You don''t know what
+    that creature was. Or exactly why it hailed you, and called you to its realm.
+
+
+    Or
+    whether any of that was truly real.
+
+
+    Nebula nuzzles against your arm. And
+    you wonder, does it matter?
+
+
+    Yes, a part of you says. Without a package,
+    you have no job.
+
+
+    Does that matter?
+
+
+    You aren''t sure.'
   voice: {fileID: 0}
   next1: {fileID: 0}
   next2: {fileID: 0}

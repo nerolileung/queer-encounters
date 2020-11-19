@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: End 0
   m_EditorClassIdentifier: 
-  text: 'Fine. You found the "The Devlopers are Annoyed at You" ending.
+  text: 'Fine. You found the "The Developers are Annoyed at You" ending.
 
 
     Congratulations.

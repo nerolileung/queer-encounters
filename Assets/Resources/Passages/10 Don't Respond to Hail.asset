@@ -10,10 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Don't Respond to Hail 1
+  m_Name: 10 Don't Respond to Hail
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You sigh, and mute your communicator. You have a job to do, after all. And
+    a thousand miles of nothing to travel before you get your pay.
+
+
+    Nebula eyes
+    you thoughtfully. You sign to her that you love her.
+
+
+    Somehow, you feel
+    as though she understands.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 466a50c016bcc4142bb68bd5c49ea4c2, type: 2}
   next2: {fileID: 0}
   music: 

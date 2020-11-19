@@ -12,7 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: End 1
   m_EditorClassIdentifier: 
-  text: 
+  text: 'Your ship flies on. Time flies on. You receive no more hails.
+
+
+    You
+    wonder, a few minutes later, just what that might have been. You wonder if you
+    should mention it to your employers.
+
+
+    You decide not to. They don''t pay
+    you enough for that.'
   voice: {fileID: 0}
   next1: {fileID: 0}
   next2: {fileID: 0}

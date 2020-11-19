@@ -12,8 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 22 Walk Away
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You turn away from the mountain, and head in another direction.
+
+
+    The
+    mountain follows. Within moments, it appears in front of you once again. It is
+    as if it appears wherever you go.
+
+
+    Do you walk away again?'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: 9b43efb3aa0864671a03db20e2784458, type: 2}
+  next2: {fileID: 11400000}
   music: 

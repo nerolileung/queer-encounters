@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Explanation
+  m_Name: 0 Explanation
   m_EditorClassIdentifier: 
   text: 'Hello.
 
@@ -29,7 +29,7 @@ MonoBehaviour:
 
 
     Would you like to continue?'
-  voice: {fileID: 8300000, guid: 3c08db88078414525b2bba01d8b2480a, type: 3}
+  voice: {fileID: 0}
   next1: {fileID: 11400000, guid: 896afb8b709c24679831405c6da6a4f3, type: 2}
   next2: {fileID: 11400000, guid: 081fa811a11b94b2fbdf3a3287d19f2a, type: 2}
   music: 

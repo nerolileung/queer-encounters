@@ -10,10 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Don't Fix Engine
+  m_Name: 7 Don't Fix Engine
   m_EditorClassIdentifier: 
-  text: 
+  text: 'The engine sputters again behind you. You are an experienced freighter,
+    however. You know you can leave something like this for a few more minutes. It
+    will be just fine.
+
+
+    Nebula purrs some more, and you scratch below her chin.
+    She lazily opens her eyes, staring off into the darkness beyond the window. You
+    wonder, sometimes, if she understands where she is. If she knows, somehow, that
+    she is millions of miles from the home she was born upon.
+
+
+    You suspect she
+    does not. She probably sees no reason to care.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 635ab66b3de574d2caae55e68a500eb1, type: 2}
   next2: {fileID: 0}
   music: 

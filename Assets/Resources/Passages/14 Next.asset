@@ -10,10 +10,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Next 14
+  m_Name: 14 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'There is not void behind the glass.
+
+
+    There is a single eye. A tear
+    in space, glossy black, with a purple, misty pupil.
+
+
+    It glares at you, and
+    blinks.
+
+
+    Time and space shatter under its gaze. Nothing else matters, in
+    this moment before the end. It is all. It is everything.
+
+
+    And, as soon as
+    it appears, it is gone.
+
+
+    You stare into the void and stars. Silence reigns.
+    And then, your ship lands.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 082be3d63de87486f8564412871d5ce5, type: 2}
   next2: {fileID: 0}
   music: 

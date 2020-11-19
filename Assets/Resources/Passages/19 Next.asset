@@ -12,8 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 19 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You wait some more, but nothing changes.
+
+
+    You are certain that, for
+    whatever reason you are here, there is nothing to be gained from waiting. Determined,
+    you get up from your chair.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 577a0ad114f384f05aa3c2e206cdbb3d, type: 2}
   next2: {fileID: 0}
   music: 

@@ -10,10 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Fix Engine 4
+  m_Name: 4 Fix Engine
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You sigh, and nudge Nebula meaningfully with your arm. She picks her head
+    up, turning her eyes to glare at you with disapproval only natural in felines.
+    You sign to her an apology, and quickly scoop her up into your arms. She mews
+    sadly as you set her onto the chair beside you. She pads at the package briefly,
+    then curls around its warmth.
+
+
+    You think that may also be against your contract.
+    But she is just too cute.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 0e48bbe57911b4164bbf2a028021e541, type: 2}
   next2: {fileID: 0}
   music: 

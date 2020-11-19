@@ -10,10 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Next 16
+  m_Name: 16 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You look down at the controls of your ship. Dark as they are, devoid of
+    life, you doubt that they would function.
+
+
+    You look more closely at the
+    window. A large spider web of cracks has spread across the glass.
+
+
+    You take
+    a deep breath. Encouraged by the fact that you are not dead yet, you take another.
+    Whatever is out there is breathable. At least, to some degree.
+
+
+    Nebula rubs
+    against your leg, a grain of normality in an absurd situation.
+
+
+    Do you attempt
+    to leave the ship?'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: 3c9f5f7cfc1a74b4e86a8953411fe668, type: 2}
+  next2: {fileID: 11400000, guid: 577a0ad114f384f05aa3c2e206cdbb3d, type: 2}
   music: 

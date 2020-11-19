@@ -12,8 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 40 Give
   m_EditorClassIdentifier: 
-  text: 
+  text: 'Cautiously, you move your hand toward the tentacle, the box held in your
+    grip. The moment they touch, the tendril wraps around it, and snatches it from
+    you.
+
+
+    THANK YOU.
+
+
+    Do you ask what it contains?'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: e6f39b5e96ff040489567b671f0764ce, type: 2}
+  next2: {fileID: 11400000, guid: 4e20ba4f3ff7d44c1984bdc5753c1f3b, type: 2}
   music: 

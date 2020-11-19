@@ -12,8 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 37 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You blink. And everything is as it was. You feel the engine hum behind you,
+    the rumble of travel. You peer at the window. Undamaged.
+
+
+    You peer outside.
+    Nothing there but the endless void again.
+
+
+    You look down. The package is
+    in your hand. As is Nebula.
+
+
+    Do you open the package?'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: e513fc45b012c471f9b24c3b3ff0c1f3, type: 2}
+  next2: {fileID: 11400000, guid: 2c2a1c20ed21b454db6877b725c0e3b3, type: 2}
   music: 

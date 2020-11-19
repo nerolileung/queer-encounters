@@ -12,8 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 33 Don't Ask
   m_EditorClassIdentifier: 
-  text: 
+  text: 'With nothing left to do, you go inside.
+
+
+    It''s strange, to feel as
+    though you are home, despite being gone for only a few hours. Time seems off
+    here, somehow.
+
+
+    You go to the cockpit. The eye looms ahead of you, through
+    the cracked glass. It is staring at the chair.
+
+
+    It is staring at the package.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 6f78ac697e05642628057ed1f6176a97, type: 2}
   next2: {fileID: 0}
   music: 

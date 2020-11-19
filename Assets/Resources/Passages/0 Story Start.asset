@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Story Start 0
+  m_Name: 0 Story Start
   m_EditorClassIdentifier: 
   text: 'It''s lonely, at the edge of the void. The endless, star-spotted blackness,
     sprawling out from the window of your ship, like a canvas of velvet and lights.
@@ -19,7 +19,7 @@ MonoBehaviour:
 
 
     Well, lonely, if not for cats.'
-  voice: {fileID: 8300000, guid: 3c08db88078414525b2bba01d8b2480a, type: 3}
-  next1: {fileID: 0}
+  voice: {fileID: 0}
+  next1: {fileID: 11400000, guid: e21908b0fc9d743e581cb27230793e58, type: 2}
   next2: {fileID: 0}
   music: 

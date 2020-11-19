@@ -12,8 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 38 Open
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You set Nebula down, and against all reason, you lift the lid of the box.
+    You feel as though reason left you a long time ago.
+
+
+    Inside, there is a
+    single orb. Purple in colour. It glows slightly, and is hot to the touch.
+
+
+    Something
+    lies within the crystalline core. You do not know what it is.
+
+
+    You close
+    the box.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: df8c2bf493243475783e15588eebccdd, type: 2}
   next2: {fileID: 0}
   music: 

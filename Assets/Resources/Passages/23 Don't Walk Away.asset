@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 23 Don't Walk Away
   m_EditorClassIdentifier: 
-  text: 
+  text: You step closer to the mountain. It looms above you, reaching up into the
+    misty haze above. With no other way to go, you start climbing.
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: b4ed60d7216c1462c975c7e0f3b1b7ed, type: 2}
   next2: {fileID: 0}
   music: 

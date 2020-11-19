@@ -12,8 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 34 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You pick it up. It is still warm, a worn wooden box, a shipping crate, like
+    many of your deliveries.
+
+
+    The eye follows it.
+
+
+    GIVE ME IT.
+
+
+    It
+    intones. A tendril breaks through the glass, reaching out to you.
+
+
+    Do you
+    give it the box?'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: f796fd9177e5d4e5ea0768764c3b6f2b, type: 2}
+  next2: {fileID: 11400000, guid: e9c511859243c464dae255153f8fce25, type: 2}
   music: 

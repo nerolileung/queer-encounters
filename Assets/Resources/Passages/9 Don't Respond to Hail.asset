@@ -10,10 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Don't Respond to Hail
+  m_Name: 9 Don't Respond to Hail
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You lean back in your chair. You don''t trust this. It is early days, for
+    the age of space travel, but piracy has already proved to be a danger. It pays
+    to be cautious.
+
+
+    You glance at the package beside you. More importantly,
+    those who are cautious get paid.
+
+
+    The console beeps once more. Another hail,
+    the same as the first.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: 6248e60e289864203b50fb06b2c6f5fa, type: 2}
+  next2: {fileID: 11400000, guid: 9031ced7772864d14a2e66e593adda86, type: 2}
   music: 

@@ -12,7 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: End 2
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You keep going. Ever on your way. Part of you wonders if that was even real,
+    or some fevered dream brought on by stress.
+
+
+    You look down at Nebula, and
+    wish that you could ask her if she saw what you had.
+
+
+    You lay a hand on
+    the box beside you, and wonder what might have been. And if that did truly happen,
+    what else could there possibly be?'
   voice: {fileID: 0}
   next1: {fileID: 0}
   next2: {fileID: 0}

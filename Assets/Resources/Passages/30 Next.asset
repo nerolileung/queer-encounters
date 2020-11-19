@@ -12,8 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 30 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'An inky tendril of purplish darkness reaches down from the eye, and then,
+    raising from the mist... your ship. Its hatch swings open, and the tendril holds
+    the opening next to you. There isn''t room here for it to land.
+
+
+    PLEASE.
+
+
+    You
+    could try and sign again, asking questions of your own?'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: 691cfe3fa4ef8498c9bcb6cf20883c75, type: 2}
+  next2: {fileID: 11400000, guid: 1c559c2e78dbf42dcabf5dfa967cb9be, type: 2}
   music: 

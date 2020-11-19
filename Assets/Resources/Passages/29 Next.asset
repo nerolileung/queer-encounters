@@ -12,8 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 29 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You sign to the eye that you are you. You also introduce your cat as Nebula.
+    She curls into your arm.
+
+
+    It seems puzzled for a moment. You wonder if it
+    understands you. The glossy black of its eye is overtaken by the gleaming of
+    stars, a gesture of an uncertain squint.
+
+
+    WHERE IS IT.
+
+
+    Those words
+    again. For lack of a better option, you sign that you do not know what it is
+    speaking of.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 7a8489096b2e14d7a854ae3d53caee7e, type: 2}
   next2: {fileID: 0}
   music: 

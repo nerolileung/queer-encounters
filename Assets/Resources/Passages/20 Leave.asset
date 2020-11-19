@@ -12,8 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 20 Leave
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You turn, and head for the hatch of your ship. Your hand falls to your side,
+    gripping your wrench for comfort.
+
+
+    You stand in front of the door, and spin
+    the locking wheel. Mechanical clunks ring out, and the door swings outward. A
+    bracing breeze of sulfur, with a coppery sharpness, stings your nose. You hop
+    down from the opening, and the ground crunches beneath you, like a crust over
+    sand.
+
+
+    Nebula hops down after you, and reaches up against your leg. Obligingly,
+    you pick her up.
+
+
+    Wrench in one hand, cat in the other, you march across
+    the arid wastes of nowhere.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 695c5816cf1aa447ba3d525e858ca26b, type: 2}
   next2: {fileID: 0}
   music: 

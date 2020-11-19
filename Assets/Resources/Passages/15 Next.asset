@@ -10,10 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Next 15
+  m_Name: 15 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'This is a strange occurrence. You are certain beyond certainty, that there
+    was no surface to land upon mere moments before.
+
+
+    You look out the window
+    once more. The inky sky, speckled with dots of light, looms above the horizon.
+    But you are sure that that horizon should not be.
+
+
+    A landscape of purplish
+    rock stretches all around you, a rugged terrain of mountains, canyons, and arches,
+    all of it alien and strange. A landscape lit only by the stars in the sky. A
+    purplish aurora hangs above the distant horizon.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: f4efe5d96e8a246eea4979507e66b2ee, type: 2}
   next2: {fileID: 0}
   music: 

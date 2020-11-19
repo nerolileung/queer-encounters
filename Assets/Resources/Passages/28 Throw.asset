@@ -12,8 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 28 Throw
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You pull your arm back, and throw the wrench as hard as you can, and it
+    sails up toward the eldritch entity.
+
+
+    Your wrench bounces harmlessly off
+    of the surface of the eye, with a hollow, glassy thump, and twirls off into the
+    darkness below.
+
+
+    It does not even blink.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 6548025906b6c4163ac61486819ea9c5, type: 2}
   next2: {fileID: 0}
   music: 

@@ -25,7 +25,7 @@ MonoBehaviour:
 
     Do
     you want to play? Please?'
-  voice: {fileID: 8300000, guid: 3c08db88078414525b2bba01d8b2480a, type: 3}
+  voice: {fileID: 0}
   next1: {fileID: 11400000, guid: 02adf48f928174605821e5db9363cc5e, type: 2}
   next2: {fileID: 11400000, guid: 081fa811a11b94b2fbdf3a3287d19f2a, type: 2}
   music: 

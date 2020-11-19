@@ -23,7 +23,7 @@ MonoBehaviour:
 
     It''s a story, and it''s
     about you. Not you specifically, perhaps. A different you.'
-  voice: {fileID: 8300000, guid: 3c08db88078414525b2bba01d8b2480a, type: 3}
-  next1: {fileID: 11400000, guid: b838f0bf1784e4d139d24b2e9b1a73df, type: 2}
+  voice: {fileID: 0}
+  next1: {fileID: 11400000, guid: 5ff80a5df703542aa91378b47be9be46, type: 2}
   next2: {fileID: 0}
   music: 

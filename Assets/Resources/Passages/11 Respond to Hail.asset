@@ -10,10 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Respond to Hail
+  m_Name: 11 Respond to Hail
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You take a moment to peer out of your window. You see nothing, but the stars.
+    You aren''t sure what you were hoping to see.
+
+
+    Your hand hovers over the
+    button, and you glance again to the window.
+
+
+    Nothing but void, for near
+    and far.
+
+
+    You press the button.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 249d5f76b49fd45a3b8083d9e7733201, type: 2}
   next2: {fileID: 0}
   music: 

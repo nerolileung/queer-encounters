@@ -12,8 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 31 Ask
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You sign to the eye that you are curious as to what it is. With some difficulty,
+    as one of your hands is occupied by a cat.
+
+
+    INEVITABLE.
+
+
+    It asserts,
+    in its voice of the mind.
+
+
+    POWERFUL. LOST. LONELY.
+
+
+    It moves the ship
+    closer to you.
+
+
+    You could continue your questions?'
   voice: {fileID: 0}
-  next1: {fileID: 0}
-  next2: {fileID: 0}
+  next1: {fileID: 11400000, guid: 691cfe3fa4ef8498c9bcb6cf20883c75, type: 2}
+  next2: {fileID: 11400000, guid: 7b733a4a9654c483fae849f6b9a26a1e, type: 2}
   music: 

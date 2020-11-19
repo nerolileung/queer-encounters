@@ -12,8 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 25 Next
   m_EditorClassIdentifier: 
-  text: 
+  text: 'You climb, further and further. Nebula clings to your shoulder, her claws
+    digging into your shirt.
+
+
+    You climb. Why, you do not know. Nothing else
+    in this adventure makes sense, so why should your decisions?
+
+
+    You don''t
+    know how long you climb for. An hour, maybe. Perhaps two. It''s impossible to
+    be sure.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 3b6fc6f61e488470bafc2d2f4f20acd9, type: 2}
   next2: {fileID: 0}
   music: 

@@ -12,8 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: 32 Ask
   m_EditorClassIdentifier: 
-  text: 
+  text: 'FORGOTTEN.
+
+
+    AND THEN YOU.
+
+
+    I FOUND YOU.
+
+
+    The eye is not looking
+    at you. It is looking at the cockpit of your ship.'
   voice: {fileID: 0}
-  next1: {fileID: 0}
+  next1: {fileID: 11400000, guid: 691cfe3fa4ef8498c9bcb6cf20883c75, type: 2}
   next2: {fileID: 0}
   music: 
