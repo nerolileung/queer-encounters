@@ -38,6 +38,7 @@ public class AudioManager : MonoBehaviour
 
         musicFiles.Add(Resources.Load<AudioClip>("Audio/RelaxingPianoMusic"));
         musicFiles.Add(Resources.Load<AudioClip>("Audio/UnnaturalSituation"));
+        musicFiles.Add(Resources.Load<AudioClip>("Audio/UnseenPresence"));
 
         sfxFiles.Add(Resources.Load<AudioClip>("Audio/timersfx"));
         sfxFiles.Add(Resources.Load<AudioClip>("Audio/buttonsfx"));
@@ -83,6 +84,9 @@ public class AudioManager : MonoBehaviour
             break;
             case "UnnaturalSituation":
                 index = 1;
+            break;
+            case "UnseenPresence":
+                index = 2;
             break;
             default:
                 Debug.Log("Unknown bgm file: "+clipName);
