@@ -29,7 +29,7 @@ MonoBehaviour:
 
     Wrench in one hand, cat in the other, you march across
     the arid wastes of nowhere.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 8acf915e7a1673444a58d76892d98206, type: 3}
   next1: {fileID: 11400000, guid: 695c5816cf1aa447ba3d525e858ca26b, type: 2}
   next2: {fileID: 0}
   music: 

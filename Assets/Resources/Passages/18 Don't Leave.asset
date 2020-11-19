@@ -31,7 +31,7 @@ MonoBehaviour:
 
 
     A question solved, at least.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: f12ac39ca57b93b47879fbc241437b89, type: 3}
   next1: {fileID: 11400000, guid: 83074bb1d5ccd480db1871402caae484, type: 2}
   next2: {fileID: 0}
   music: 

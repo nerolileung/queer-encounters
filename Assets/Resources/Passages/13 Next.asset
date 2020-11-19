@@ -24,7 +24,7 @@ MonoBehaviour:
     In desperation, you press buttons on the console, as you
     have done many times before. None of them respond. You look up, staring at the
     void behind the glass...'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: bebccb7ffd286cf4b84b0e04f015cc78, type: 3}
   next1: {fileID: 11400000, guid: 3daccb5d234e24e839f812401212e884, type: 2}
   next2: {fileID: 0}
   music: UnnaturalSituation

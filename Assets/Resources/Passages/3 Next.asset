@@ -19,7 +19,7 @@ MonoBehaviour:
 
 
     Will you go and fix the engine?'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 7d3275bca5d603e499423d4b247f4556, type: 3}
   next1: {fileID: 11400000, guid: b18adf46300734794a65751661d687b3, type: 2}
   next2: {fileID: 11400000, guid: 52512ebffef354e7e9deb2e804804ace, type: 2}
   music: 

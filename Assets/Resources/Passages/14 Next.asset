@@ -33,7 +33,7 @@ MonoBehaviour:
 
     You stare into the void and stars. Silence reigns.
     And then, your ship lands.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 7c345b4a5a25175419c7c3e9c8f05372, type: 3}
   next1: {fileID: 11400000, guid: 082be3d63de87486f8564412871d5ce5, type: 2}
   next2: {fileID: 0}
   music: 

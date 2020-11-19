@@ -28,7 +28,7 @@ MonoBehaviour:
 
     Do you
     give it the box?'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: ea57e460ef17c4347909943c5b2792d7, type: 3}
   next1: {fileID: 11400000, guid: f796fd9177e5d4e5ea0768764c3b6f2b, type: 2}
   next2: {fileID: 11400000, guid: e9c511859243c464dae255153f8fce25, type: 2}
   music: 

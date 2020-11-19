@@ -25,7 +25,7 @@ MonoBehaviour:
     rock stretches all around you, a rugged terrain of mountains, canyons, and arches,
     all of it alien and strange. A landscape lit only by the stars in the sky. A
     purplish aurora hangs above the distant horizon.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: b7d8fdb2ec2c9864f9dc10ebc4b127d8, type: 3}
   next1: {fileID: 11400000, guid: f4efe5d96e8a246eea4979507e66b2ee, type: 2}
   next2: {fileID: 0}
   music: 

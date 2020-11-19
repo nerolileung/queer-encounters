@@ -28,7 +28,7 @@ MonoBehaviour:
 
 
     YES. THAT IS APT.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 461a27c00252eca45a39c094c06eabe7, type: 3}
   next1: {fileID: 11400000, guid: e6f39b5e96ff040489567b671f0764ce, type: 2}
   next2: {fileID: 0}
   music: 

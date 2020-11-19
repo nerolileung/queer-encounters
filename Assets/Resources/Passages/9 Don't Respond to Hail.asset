@@ -23,7 +23,7 @@ MonoBehaviour:
 
     The console beeps once more. Another hail,
     the same as the first.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 4e278ee3dc4e1214384c8b5feffda9e9, type: 3}
   next1: {fileID: 11400000, guid: 6248e60e289864203b50fb06b2c6f5fa, type: 2}
   next2: {fileID: 11400000, guid: 9031ced7772864d14a2e66e593adda86, type: 2}
   music: 

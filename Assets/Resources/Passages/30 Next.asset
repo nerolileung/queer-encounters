@@ -22,7 +22,7 @@ MonoBehaviour:
 
     You
     could try and sign again, asking questions of your own?'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 9ac59eb6d06e93d4fbccaeea4f914077, type: 3}
   next1: {fileID: 11400000, guid: 691cfe3fa4ef8498c9bcb6cf20883c75, type: 2}
   next2: {fileID: 11400000, guid: 1c559c2e78dbf42dcabf5dfa967cb9be, type: 2}
   music: 

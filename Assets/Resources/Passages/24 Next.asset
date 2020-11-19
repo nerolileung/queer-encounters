@@ -21,7 +21,7 @@ MonoBehaviour:
 
     You set Nebula onto your shoulder,
     and begin to climb.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 1c1de105afce7b34499a35a0418a9cb8, type: 3}
   next1: {fileID: 11400000, guid: 1d7b84981e1674a4c9e9b840776d3c1a, type: 2}
   next2: {fileID: 0}
   music: 

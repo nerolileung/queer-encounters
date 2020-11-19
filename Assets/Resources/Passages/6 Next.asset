@@ -23,7 +23,7 @@ MonoBehaviour:
     You''re sat down
     barely a moment before Nebula perks her head up, and pounces on your vacant lap.
     She sits there, expectantly, and you lazily scratch at her cheek.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 78847b1a7b70da74caae0192f11b3f23, type: 3}
   next1: {fileID: 11400000, guid: 635ab66b3de574d2caae55e68a500eb1, type: 2}
   next2: {fileID: 0}
   music: 

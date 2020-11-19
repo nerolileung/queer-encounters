@@ -25,7 +25,7 @@ MonoBehaviour:
 
 
     You press the button.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: c2b336b5bd0264928ab38c764232f24c, type: 3}
   next1: {fileID: 11400000, guid: 249d5f76b49fd45a3b8083d9e7733201, type: 2}
   next2: {fileID: 0}
   music: 

@@ -25,7 +25,7 @@ MonoBehaviour:
 
 
     It is staring at the package.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 04829da87f04af44c8f6c74365398c0a, type: 3}
   next1: {fileID: 11400000, guid: 6f78ac697e05642628057ed1f6176a97, type: 2}
   next2: {fileID: 0}
   music: 

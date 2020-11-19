@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: You step closer to the mountain. It looms above you, reaching up into the
     misty haze above. With no other way to go, you start climbing.
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 47d1526bd0de06042bdb2b09a9f89f4a, type: 3}
   next1: {fileID: 11400000, guid: b4ed60d7216c1462c975c7e0f3b1b7ed, type: 2}
   next2: {fileID: 0}
   music: 

@@ -21,7 +21,7 @@ MonoBehaviour:
 
 
     Do you ask what it contains?'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: a435bf87ed3b561439405c66d224712a, type: 3}
   next1: {fileID: 11400000, guid: e6f39b5e96ff040489567b671f0764ce, type: 2}
   next2: {fileID: 11400000, guid: 4e20ba4f3ff7d44c1984bdc5753c1f3b, type: 2}
   music: 

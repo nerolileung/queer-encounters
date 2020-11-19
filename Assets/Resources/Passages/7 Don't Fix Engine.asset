@@ -25,7 +25,7 @@ MonoBehaviour:
 
     You suspect she
     does not. She probably sees no reason to care.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 51876ca1a380aef4288b7a3419aa1c3a, type: 3}
   next1: {fileID: 11400000, guid: 635ab66b3de574d2caae55e68a500eb1, type: 2}
   next2: {fileID: 0}
   music: 

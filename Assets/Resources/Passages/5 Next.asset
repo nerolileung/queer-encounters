@@ -18,7 +18,7 @@ MonoBehaviour:
     again as you squeeze beside it. You quickly find the issue, a loose fuel line
     this time, and coax it back into place. The wrench in your pocket helps to secure
     the line.
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 3a950802103261842b38b57aa5d6619a, type: 3}
   next1: {fileID: 11400000, guid: d2bd7bc8886e04334b85f56771952fff, type: 2}
   next2: {fileID: 0}
   music: 

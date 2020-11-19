@@ -28,7 +28,7 @@ MonoBehaviour:
 
 
     Do you leave your ship?'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: f2da3a28a8ae8f14a870b685eb236a97, type: 3}
   next1: {fileID: 11400000, guid: bdfa8bf4cf3264a64a5257bafc2affbf, type: 2}
   next2: {fileID: 11400000, guid: 577a0ad114f384f05aa3c2e206cdbb3d, type: 2}
   music: 

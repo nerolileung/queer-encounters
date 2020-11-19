@@ -16,7 +16,7 @@ MonoBehaviour:
 
 
     And it disappears.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 020cceba9c991a046960b324eeceaacb, type: 3}
   next1: {fileID: 11400000, guid: 3992f65dcddaf4423ae2f2e62a935d3a, type: 2}
   next2: {fileID: 0}
   music: 

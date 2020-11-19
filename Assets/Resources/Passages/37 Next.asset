@@ -25,7 +25,7 @@ MonoBehaviour:
 
 
     Do you open the package?'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 8c9d446f53a0cd04f896bdd9bff30d01, type: 3}
   next1: {fileID: 11400000, guid: e513fc45b012c471f9b24c3b3ff0c1f3, type: 2}
   next2: {fileID: 11400000, guid: 2c2a1c20ed21b454db6877b725c0e3b3, type: 2}
-  music: 
+  music: RelaxingPianoMusic

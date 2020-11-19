@@ -26,7 +26,7 @@ MonoBehaviour:
 
     You close
     the box.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: e7842b7cc3d421d4e882004ad8683090, type: 3}
   next1: {fileID: 11400000, guid: df8c2bf493243475783e15588eebccdd, type: 2}
   next2: {fileID: 0}
   music: 

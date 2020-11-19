@@ -22,7 +22,7 @@ MonoBehaviour:
 
     You look down. The package is
     not in your hand. In its place is your wrench.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 233417e7c870b49a68950c052fc73d5e, type: 3}
   next1: {fileID: 11400000, guid: 23e027aeba78e44b790c775ff1b63287, type: 2}
   next2: {fileID: 0}
-  music: 
+  music: RelaxingPianoMusic

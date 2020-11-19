@@ -23,7 +23,7 @@ MonoBehaviour:
 
     The eye is not looking
     at you. It is looking at the cockpit of your ship.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 9d07f797bcd2c204bacaceb8e67c4e7a, type: 3}
   next1: {fileID: 11400000, guid: 691cfe3fa4ef8498c9bcb6cf20883c75, type: 2}
   next2: {fileID: 0}
   music: 

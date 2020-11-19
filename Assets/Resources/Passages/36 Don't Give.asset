@@ -24,7 +24,7 @@ MonoBehaviour:
 
 
     And disappears.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: a9f1039a5b3cdde4da2937a5800266ac, type: 3}
   next1: {fileID: 11400000, guid: ef04165c2be8e4bc5ae7b66f326526ad, type: 2}
   next2: {fileID: 0}
   music: 

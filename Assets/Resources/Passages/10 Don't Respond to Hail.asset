@@ -22,7 +22,7 @@ MonoBehaviour:
 
     Somehow, you feel
     as though she understands.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 2d7bdfb7e823e4165ab53de0bb5ca3a8, type: 3}
   next1: {fileID: 11400000, guid: 466a50c016bcc4142bb68bd5c49ea4c2, type: 2}
   next2: {fileID: 0}
   music: 

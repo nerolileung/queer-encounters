@@ -23,7 +23,7 @@ MonoBehaviour:
     You don''t
     know how long you climb for. An hour, maybe. Perhaps two. It''s impossible to
     be sure.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: e1b1896fae6fba74aaf5296d6e2e34b1, type: 3}
   next1: {fileID: 11400000, guid: 3b6fc6f61e488470bafc2d2f4f20acd9, type: 2}
   next2: {fileID: 0}
   music: 

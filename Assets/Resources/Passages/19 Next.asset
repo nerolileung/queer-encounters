@@ -18,7 +18,7 @@ MonoBehaviour:
     You are certain that, for
     whatever reason you are here, there is nothing to be gained from waiting. Determined,
     you get up from your chair.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: bd2b9bcae8b734f4c89bfd0922fdf1af, type: 3}
   next1: {fileID: 11400000, guid: 577a0ad114f384f05aa3c2e206cdbb3d, type: 2}
   next2: {fileID: 0}
   music: 

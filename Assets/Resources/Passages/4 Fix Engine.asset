@@ -21,7 +21,7 @@ MonoBehaviour:
 
     You think that may also be against your contract.
     But she is just too cute.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: a590dff7fbac08948a4dacd164eb4195, type: 3}
   next1: {fileID: 11400000, guid: 0e48bbe57911b4164bbf2a028021e541, type: 2}
   next2: {fileID: 0}
   music: 

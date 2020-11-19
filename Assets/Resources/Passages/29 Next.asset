@@ -27,7 +27,7 @@ MonoBehaviour:
     Those words
     again. For lack of a better option, you sign that you do not know what it is
     speaking of.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 04981970e0db57247bb07109b00191c4, type: 3}
   next1: {fileID: 11400000, guid: 7a8489096b2e14d7a854ae3d53caee7e, type: 2}
   next2: {fileID: 0}
   music: 

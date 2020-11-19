@@ -18,7 +18,7 @@ MonoBehaviour:
 
 
     You do not open it.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 888c80cf79e580648888f1dc3a333540, type: 3}
   next1: {fileID: 11400000, guid: be82a901786d4433380b91b7f11c0dfa, type: 2}
   next2: {fileID: 0}
   music: 

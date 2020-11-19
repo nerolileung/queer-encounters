@@ -25,7 +25,7 @@ MonoBehaviour:
 
 
     You get no response.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: e43944573936d41cdb8fd90a67b2afc1, type: 3}
   next1: {fileID: 11400000, guid: 399b57b03a3ce4b19ac92ef91c2da120, type: 2}
   next2: {fileID: 0}
   music: 

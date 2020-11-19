@@ -28,7 +28,7 @@ MonoBehaviour:
 
     You
     look up. And an eye stares down at you.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: be3d5e42fde2a274993a4be4904ba8f2, type: 3}
   next1: {fileID: 11400000, guid: 0fb3187a4cd76484db71f232653e6677, type: 2}
   next2: {fileID: 0}
   music: 

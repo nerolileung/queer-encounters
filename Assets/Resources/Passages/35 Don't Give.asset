@@ -23,7 +23,7 @@ MonoBehaviour:
 
 
     It says again.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 7f07fa97d77c08b45a6635e2d9649f2b, type: 3}
   next1: {fileID: 11400000, guid: 7e26d486a2c37442bbcc43c62a32b88c, type: 2}
   next2: {fileID: 11400000, guid: e9c511859243c464dae255153f8fce25, type: 2}
   music: 

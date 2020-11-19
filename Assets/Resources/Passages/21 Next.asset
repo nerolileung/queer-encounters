@@ -31,7 +31,7 @@ MonoBehaviour:
 
 
     Do you walk away from the mountain?'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 468cac94fa8dde349a13ea4df13b4385, type: 3}
   next1: {fileID: 11400000, guid: 9b43efb3aa0864671a03db20e2784458, type: 2}
   next2: {fileID: 11400000, guid: c4076234edaa04e0680519e02201d03f, type: 2}
   music: 

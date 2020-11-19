@@ -27,7 +27,7 @@ MonoBehaviour:
 
 
     Do you respond to the hail?'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 9e3906be5467d594ba439b488f74a6c7, type: 3}
   next1: {fileID: 11400000, guid: 18ad920ab94494747ac9012e1b68febc, type: 2}
   next2: {fileID: 11400000, guid: 9031ced7772864d14a2e66e593adda86, type: 2}
   music: 

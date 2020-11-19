@@ -31,7 +31,7 @@ MonoBehaviour:
 
     Do you attempt
     to leave the ship?'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: d004500354ad9b548855b520732f9fd3, type: 3}
   next1: {fileID: 11400000, guid: 3c9f5f7cfc1a74b4e86a8953411fe668, type: 2}
   next2: {fileID: 11400000, guid: 577a0ad114f384f05aa3c2e206cdbb3d, type: 2}
   music: 

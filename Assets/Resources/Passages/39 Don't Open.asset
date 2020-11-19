@@ -21,7 +21,7 @@ MonoBehaviour:
 
     You set it down on the
     chair again, and head on for the stars.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: a4d42fc96b4060845b4461cd3636f78b, type: 3}
   next1: {fileID: 11400000, guid: df8c2bf493243475783e15588eebccdd, type: 2}
   next2: {fileID: 0}
   music: 
