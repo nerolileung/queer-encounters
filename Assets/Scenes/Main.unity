@@ -962,6 +962,18 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 900100316}
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+        m_MethodName: Init
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
       - m_Target: {fileID: 2062507865}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
@@ -978,18 +990,6 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-      - m_Target: {fileID: 900100316}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: Init
-        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2596,10 +2596,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 778df3c747ac9486ba6912982e4e98cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  darkMode: 0
-  uiText: []
-  uiButton: []
-  uiImage: []
   settingsLabel: {fileID: 3869425}
 --- !u!4 &900100315
 Transform:
@@ -2624,16 +2620,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 900100313}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ebeb9f731e4e429da6f79260317ba28, type: 3}
+  m_Script: {fileID: 11500000, guid: 1a4a9b7294aa34469b228bf1c3ce0e2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioManager: {fileID: 0}
-  passageBuffer: []
   dialogue: {fileID: 1076273741}
   choiceTimerUI: {fileID: 1605542295}
-  choiceTimerText: {fileID: 0}
-  choiceTimerCurrent: 0
-  fadeTimerCurrent: 0
   skipButton: {fileID: 1701185784}
   menuButton: {fileID: 797593131}
   quitButton: {fileID: 300756864}
@@ -4105,7 +4096,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f9df9881b3a064e48be4c6eb88311e8d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 335686c61d75045d0a6a4c2ab2c3a8f9, type: 3}
   m_Type: 3
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -4615,10 +4606,6 @@ MonoBehaviour:
   sfxText: {fileID: 1395139326}
   musicSource: {fileID: 1782297690}
   musicText: {fileID: 32146205}
-  musicCurrent: {fileID: 0}
-  voiceCurrent: {fileID: 0}
-  musicTimer: 0
-  musicVolOriginal: 0
 --- !u!82 &1782297690
 AudioSource:
   m_ObjectHideFlags: 0

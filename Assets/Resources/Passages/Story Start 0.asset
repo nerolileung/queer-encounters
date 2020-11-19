@@ -12,7 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
   m_Name: Story Start 0
   m_EditorClassIdentifier: 
-  text: 
+  text: 'It''s lonely, at the edge of the void. The endless, star-spotted blackness,
+    sprawling out from the window of your ship, like a canvas of velvet and lights.
+    Nothing nearby for an unfathomable distance. You, a single speck in a sea of
+    emptiness. Lonely, indeed.
+
+
+    Well, lonely, if not for cats.'
   voice: {fileID: 8300000, guid: 3c08db88078414525b2bba01d8b2480a, type: 3}
   next1: {fileID: 0}
   next2: {fileID: 0}
