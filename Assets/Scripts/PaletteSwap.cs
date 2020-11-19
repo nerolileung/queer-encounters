@@ -29,14 +29,14 @@ public class PaletteSwap : MonoBehaviour
         palette[3] = new Color(0.1f,0.1f,0.1f);
         // light colourblock
         blockLight.normalColor = palette[3];
-        blockLight.highlightedColor = palette[1];
-        blockLight.pressedColor = palette[0];
+        blockLight.highlightedColor = palette[0];
+        blockLight.pressedColor = palette[1];
         blockLight.selectedColor = palette[2];
         blockLight.colorMultiplier = 1;
         // dark colourblock
         blockDark.normalColor = palette[0];
-        blockDark.highlightedColor = palette[2];
-        blockDark.pressedColor = palette[3];
+        blockDark.highlightedColor = palette[3];
+        blockDark.pressedColor = palette[2];
         blockDark.selectedColor = palette[1];
         blockDark.colorMultiplier = 1;
 
