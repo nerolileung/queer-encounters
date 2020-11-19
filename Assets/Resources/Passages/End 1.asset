@@ -22,7 +22,7 @@ MonoBehaviour:
 
     You decide not to. They don''t pay
     you enough for that.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: a3408786ace5746e582c8b90492e92fc, type: 3}
   next1: {fileID: 0}
   next2: {fileID: 0}
   music: 

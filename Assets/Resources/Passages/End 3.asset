@@ -32,7 +32,7 @@ MonoBehaviour:
 
 
     You aren''t sure.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 28821a5e0e2664ba2bb57f026db84a54, type: 3}
   next1: {fileID: 0}
   next2: {fileID: 0}
   music: 

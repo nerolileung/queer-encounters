@@ -20,7 +20,7 @@ MonoBehaviour:
 
     Now
     go back and play it properly.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 92154c23aad074eef83b20b0a69133d2, type: 3}
   next1: {fileID: 0}
   next2: {fileID: 0}
   music: 

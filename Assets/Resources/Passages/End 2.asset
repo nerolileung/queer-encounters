@@ -23,7 +23,7 @@ MonoBehaviour:
     You lay a hand on
     the box beside you, and wonder what might have been. And if that did truly happen,
     what else could there possibly be?'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 73c10d6bc1c464bdda225fcd141d9388, type: 3}
   next1: {fileID: 0}
   next2: {fileID: 0}
   music: 
