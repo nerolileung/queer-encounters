@@ -8,6 +8,7 @@ public class AudioManager : MonoBehaviour
 {
     private static AudioMixer mixer;
 
+#region ui
     [SerializeField]
     private AudioSource voiceSource;
     [SerializeField]
@@ -20,19 +21,27 @@ public class AudioManager : MonoBehaviour
     private AudioSource musicSource;
     [SerializeField]
     private Text musicText;
-
+#endregion
+#region bgm
     private List<AudioClip> musicFiles = new List<AudioClip>();
     private float musicVolOrig;
     private float musicTimerCurrent;
     private static float musicTimerMax;
     private AudioClip musicCurrent;
+#endregion
+    private List <AudioClip> sfxFiles = new List<AudioClip>();
 
     // Start is called before the first frame update
     void Start()
     {
         mixer = Resources.Load<AudioMixer>("Audio/MainMixer");
+
         musicFiles.Add(Resources.Load<AudioClip>("Audio/RelaxingPianoMusic"));
         musicFiles.Add(Resources.Load<AudioClip>("Audio/UnnaturalSituation"));
+
+        sfxFiles.Add(Resources.Load<AudioClip>("Audio/timersfx"));
+        sfxFiles.Add(Resources.Load<AudioClip>("Audio/buttonsfx"));
+
         musicTimerMax = 2f;
         musicTimerCurrent = 0f;
 
@@ -105,5 +114,21 @@ public class AudioManager : MonoBehaviour
     }
     public void StopVoice(){
         voiceSource.Stop();
+    }
+    public void PlayEffect(string clipName){
+        for (int i = 0; i < sfxFiles.Count; i++){
+            if (sfxFiles[i].name.Equals(clipName)) {
+                sfxSource.clip = sfxFiles[i];
+                if (sfxSource.isPlaying) StopEffect();
+                sfxSource.Play();
+                break;
+            }
+            else if (i == sfxFiles.Count - 1){ // end of files
+                Debug.Log("Unknown sfx file: "+clipName);
+            }
+        }
+    }
+    public void StopEffect(){
+        sfxSource.Stop();
     }
 }

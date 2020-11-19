@@ -10,14 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
-  m_Name: Don't Answer 1
+  m_Name: Don't Answer 2
   m_EditorClassIdentifier: 
-  text: 'Okay. Last chance. When you hear the sound, or see the prompt, press the
-    spacebar to play the game.
+  text: 'Hm. Then I can only conclude that you are not here to play the game.
 
 
-    Would you like to play the game?'
+    I''m
+    sure you''ll enjoy it. It''s about spaceships, and alien worlds. There is even
+    a cat.
+
+
+    She''s called Nebula, if that sweetens the deal for you.
+
+
+    Do
+    you want to play? Please?'
   voice: {fileID: 8300000, guid: 3c08db88078414525b2bba01d8b2480a, type: 3}
-  next1: {fileID: 11400000, guid: 4468bba6862da490ca8a6638d336ac1f, type: 2}
+  next1: {fileID: 11400000, guid: 02adf48f928174605821e5db9363cc5e, type: 2}
   next2: {fileID: 11400000, guid: 081fa811a11b94b2fbdf3a3287d19f2a, type: 2}
   music: 

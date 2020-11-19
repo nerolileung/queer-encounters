@@ -104,6 +104,8 @@ public class GameManager : MonoBehaviour
         if (passageBuffer[0].voice) audioManager.PlayVoice(passageBuffer[0].voice);
     }
     private void EndPassage(bool passiveCont){
+        if (gameState==STATE.CHOICE) audioManager.StopEffect();
+
         Passage nextPassage;
         // remove unchosen passage from buffer
         if (passiveCont) {
@@ -139,10 +141,11 @@ public class GameManager : MonoBehaviour
         choiceTimerUI.GetComponent<Image>().fillAmount = choiceTimerCurrent/choiceTimerMax;
         choiceTimerText.text = Mathf.CeilToInt(choiceTimerCurrent).ToString();
 
+        // player has acted!
         if (Input.anyKeyDown && (!Input.GetMouseButtonDown(0) && !Input.GetMouseButtonDown(1) && !Input.GetMouseButtonDown(2))) {
             EndPassage(false);
         }
-        if (choiceTimerCurrent <= 0){
+        if (choiceTimerCurrent <= 0){ // player let timer run out
             EndPassage(true);
         }
     }
@@ -179,6 +182,7 @@ public class GameManager : MonoBehaviour
             case STATE.CHOICE:
                 choiceTimerUI.SetActive(true);
                 choiceTimerCurrent = choiceTimerMax;
+                audioManager.PlayEffect("timersfx");
             break;
             case STATE.TRANS_OUT:
                 if (gameState == STATE.CHOICE){

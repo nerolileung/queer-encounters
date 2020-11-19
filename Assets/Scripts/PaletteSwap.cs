@@ -17,6 +17,8 @@ public class PaletteSwap : MonoBehaviour
     [SerializeField]
     private GameObject settingsLabel;
 
+    private AudioManager audioManager;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -40,11 +42,15 @@ public class PaletteSwap : MonoBehaviour
         blockDark.selectedColor = palette[1];
         blockDark.colorMultiplier = 1;
 
+        audioManager = audioManager = Object.FindObjectOfType<AudioManager>();
+
         //get all the text and buttons
         foreach (Text obj in Resources.FindObjectsOfTypeAll<Text>() as Text[])
             uiText.Add(obj);
-        foreach (Button obj in Resources.FindObjectsOfTypeAll<Button>() as Button[])
+        foreach (Button obj in Resources.FindObjectsOfTypeAll<Button>() as Button[]){
             uiButton.Add(obj);
+            obj.onClick.AddListener(() => audioManager.PlayEffect("buttonsfx"));
+        }
         foreach (Image obj in Resources.FindObjectsOfTypeAll<Image>() as Image[])
             uiImage.Add(obj);
     }

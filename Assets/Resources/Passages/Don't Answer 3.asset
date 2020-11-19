@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
+  m_Name: Don't Answer 3
+  m_EditorClassIdentifier: 
+  text: 'Fine. Then... As the author, I suppose I can ramble for a little.
+
+
+    This
+    is a story about the unknown. About exploring. About realising that, no matter
+    how ordinary your everyday may be, that the extraordinary is happening. That
+    the inexplicable exists out there, somewhere.
+
+
+    It''s a story, and it''s
+    about you. Not you specifically, perhaps. A different you.'
+  voice: {fileID: 8300000, guid: 3c08db88078414525b2bba01d8b2480a, type: 3}
+  next1: {fileID: 11400000, guid: b838f0bf1784e4d139d24b2e9b1a73df, type: 2}
+  next2: {fileID: 0}
+  music: 
