@@ -22,7 +22,7 @@ MonoBehaviour:
     an aspiring game developer, or someone who just wants to have a go at making
     something for yourself: I urge you to find a jam, and join the awesome game development
     community.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 45ba4e2500bb549b2a6f07933243dca7, type: 3}
   next1: {fileID: 11400000, guid: b838f0bf1784e4d139d24b2e9b1a73df, type: 2}
   next2: {fileID: 0}
   music: 

@@ -18,7 +18,7 @@ MonoBehaviour:
 
 
     Would you like to play the game?'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: a6252984c5baa4eae9490a52ec635d99, type: 3}
   next1: {fileID: 11400000, guid: 56791f6bcd15d4d96806ffd7ea7acf74, type: 2}
   next2: {fileID: 11400000, guid: 081fa811a11b94b2fbdf3a3287d19f2a, type: 2}
   music: 

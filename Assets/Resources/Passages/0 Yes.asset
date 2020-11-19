@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 0 Yes
   m_EditorClassIdentifier: 
   text: Good. You understand how this works. Then let the story begin.
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 98b2ae04042a04f159b92359382019de, type: 3}
   next1: {fileID: 11400000, guid: 148f70624d5b748fcbd543f7e435fc33, type: 2}
   next2: {fileID: 0}
   music: 

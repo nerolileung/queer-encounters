@@ -19,7 +19,7 @@ MonoBehaviour:
 
 
     Well, lonely, if not for cats.'
-  voice: {fileID: 0}
+  voice: {fileID: 8300000, guid: 6e2e54541b8954f15b87dedaa9102f28, type: 3}
   next1: {fileID: 11400000, guid: e21908b0fc9d743e581cb27230793e58, type: 2}
   next2: {fileID: 0}
   music: 
