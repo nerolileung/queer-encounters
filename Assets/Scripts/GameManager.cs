@@ -50,7 +50,7 @@ public class GameManager : MonoBehaviour
         fadeTimerMax = 1.0f;
         fadeTimerCurrent = 0f;
         
-        gameState = STATE.MENU;
+        ChangeState(STATE.MENU);
     }
 
     // Update is called once per frame
@@ -100,7 +100,6 @@ public class GameManager : MonoBehaviour
         passageBuffer.Add(Resources.Load<Passage>("Passages/"+passName));
     }
     private void PlayPassage(){
-        if (passageBuffer[0].music != "") audioManager.PlayMusic(passageBuffer[0].music);
         dialogue.text = passageBuffer[0].text;
         if (passageBuffer[0].voice) audioManager.PlayVoice(passageBuffer[0].voice);
     }
@@ -121,7 +120,8 @@ public class GameManager : MonoBehaviour
         if (passageBuffer[0].next2 != null) LoadPassage(passageBuffer[0].next2.name);
         if (passageBuffer[0].next1 != null) LoadPassage(passageBuffer[0].next1.name);
         
-        // fade out current text
+        // fade out current text and music
+        if (passageBuffer[0].music != "") audioManager.PlayMusic(passageBuffer[0].music);
         ChangeState(STATE.TRANS_OUT);
         
     }
@@ -167,7 +167,7 @@ public class GameManager : MonoBehaviour
         switch (state){
             case STATE.MENU:
                 audioManager.StopVoice();
-                // audioManager.playMusic("menuMusic");
+                audioManager.PlayMusic("RelaxingPianoMusic");
                 gameCanvas.SetActive(false);
                 mainMenu.SetActive(true);
             break;
