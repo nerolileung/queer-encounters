@@ -94,9 +94,9 @@ public class GameManager : MonoBehaviour
     }
     #region passage actions
     private void LoadPassage(string passName){
-        for (int i = 0; i < passageBuffer.Count; i++){
+        /*for (int i = 0; i < passageBuffer.Count; i++){
             if (passageBuffer[i].name.Equals(passName)) return;
-        }
+        }*/
         passageBuffer.Add(Resources.Load<Passage>("Passages/"+passName));
     }
     private void PlayPassage(){
@@ -170,6 +170,7 @@ public class GameManager : MonoBehaviour
         switch (state){
             case STATE.MENU:
                 audioManager.StopVoice();
+                audioManager.StopEffect();
                 audioManager.PlayMusic("RelaxingPianoMusic");
                 gameCanvas.SetActive(false);
                 mainMenu.SetActive(true);
