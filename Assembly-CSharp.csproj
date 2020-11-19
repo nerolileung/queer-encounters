@@ -55,6 +55,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Passage.cs" />
      <Compile Include="Assets\Scripts\PaletteSwap.cs" />
      <Compile Include="Assets\Scripts\AudioManager.cs" />
  <Reference Include="Unity.Timeline.Editor">

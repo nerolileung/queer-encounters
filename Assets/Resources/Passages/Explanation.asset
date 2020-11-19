@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2edf424fabd945d0b46ececaf7e1ab2, type: 3}
+  m_Name: Explanation
+  m_EditorClassIdentifier: 
+  text: 'Hello.
+
+
+    This is a story about you.
+
+
+    Not you, of course. But you.
+    Yes, you. You know who you are.
+
+
+    I will describe this story to you. I will
+    also give you choices. When you hear this sound... press the spacebar, and you
+    will follow the course described. Choose not to, and you choose not to do the
+    action.
+
+
+    Would you like to continue?'
+  voice: {fileID: 8300000, guid: 3c08db88078414525b2bba01d8b2480a, type: 3}
+  next1: {fileID: 11400000, guid: 896afb8b709c24679831405c6da6a4f3, type: 2}
+  next2: {fileID: 11400000, guid: 081fa811a11b94b2fbdf3a3287d19f2a, type: 2}
+  music: RelaxingPianoMusic
